@@ -9,5 +9,5 @@
 *.sym
 tags
 *~
-build/
+obj_gh60_lufa/
 *.bak
